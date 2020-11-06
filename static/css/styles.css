@@ -1,0 +1,25 @@
+body {
+    background-color: #e6e6fa;
+    text-align: center;
+}
+/*
+#e1f4f3
+*/
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+
+footer{
+	padding: 20px;
+	background-color: black;
+	color: white;
+	/*text-align: center; */
+}
